@@ -4,14 +4,13 @@ import 'firebase/storage';
 import 'firebase/database';
 
 var firebaseConfig = {
-  apiKey: "AIzaSyDR-0DZk0J7Dsi_Vd3xvPWVQeQYyYksfz8",
-  authDomain: "slack-app-9d55b.firebaseapp.com",
-  projectId: "slack-app-9d55b",
-  storageBucket: "slack-app-9d55b.appspot.com",
-  messagingSenderId: "50471540621",
-  appId: "1:50471540621:web:c7d026226e3f09ad4e4fc4",
-  measurementId: "G-L76X1Y25NT"
-};
+    apiKey: "AIzaSyCTj5uSDN62XQBV8VsPHBVivLtb1oX4ZGU",
+    authDomain: "slack-application-b9926.firebaseapp.com",
+    projectId: "slack-application-b9926",
+    storageBucket: "slack-application-b9926.appspot.com",
+    messagingSenderId: "124377776339",
+    appId: "1:124377776339:web:abfb861284feea8911d426"
+  };
 firebase.initializeApp(firebaseConfig);
 firebase.analytics();
 
