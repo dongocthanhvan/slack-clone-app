@@ -4,13 +4,12 @@ import 'firebase/storage';
 import 'firebase/database';
 
 var firebaseConfig = {
-  apiKey: "AIzaSyDGMrXZ1ob-bFqTGaQUI0nAlZR2IH7wPBg",
-  authDomain: "slack-cloning-react.firebaseapp.com",
-  projectId: "slack-cloning-react",
-  storageBucket: "slack-cloning-react.appspot.com",
-  messagingSenderId: "64237170097",
-  appId: "1:64237170097:web:9a487ab56d032bcbd06190",
-  measurementId: "G-ZFZVL7W4HG"
+  apiKey: "AIzaSyAaMxAAnpiwDX0cssXMEkn5oks-9LNDLJk",
+  authDomain: "slack-cloning-2ef42.firebaseapp.com",
+  projectId: "slack-cloning-2ef42",
+  storageBucket: "slack-cloning-2ef42.appspot.com",
+  messagingSenderId: "853876540783",
+  appId: "1:853876540783:web:2d40059e71cff89d49549a"
 };
 firebase.initializeApp(firebaseConfig);
 firebase.analytics();
